@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author User
+ * @author 64050030_Kitipum_Nornua
  */
 public class Application {
 

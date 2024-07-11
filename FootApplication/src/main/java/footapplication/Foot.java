@@ -7,7 +7,7 @@ package footapplication;
 
 /**
  *
- * @author User
+ * @author 64050030_Kitipum_Nornua
  */
 public class Foot {
     private FootShape footShape;
